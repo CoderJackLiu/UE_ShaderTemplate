@@ -1,5 +1,5 @@
 
-# UnrealShaderTemplate
+# UE_ShaderTemplate
 
 This is a shader plugin Template which unreal engine supply which developed in unreal engine 5!
 
